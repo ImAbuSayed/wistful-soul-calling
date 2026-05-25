@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wistful-soul-calling/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wistful Soul Calling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wistful-soul-calling/) |
+| **Get License** | [Request Licensing for Wistful Soul Calling](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wistful-soul-calling/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a7df49e1091214fbddb2cefb037f39f7e996c374ec7685f2af14e4c28ac3cb93` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
