@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on the wooden floor
+> I can't remember what we were waiting for
+> There is a fire burning deep inside your eyes
+> Lighting up the dark of these open skies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
